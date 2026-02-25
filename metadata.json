@@ -1,0 +1,5 @@
+{
+  "name": "Docx Page Cleaner",
+  "description": "A production-ready tool to remove empty and blank pages from Microsoft Word (.docx) files while preserving formatting.",
+  "requestFramePermissions": []
+}
